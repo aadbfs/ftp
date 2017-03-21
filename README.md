@@ -1,6 +1,6 @@
 # ftp
 
-Use unix to run the code, as this was the original testing and development environment.
+Use unix/linux/related miscellany to run the code, as this was the original testing and development environment.
 
 1. Download the files into a directory.
 
